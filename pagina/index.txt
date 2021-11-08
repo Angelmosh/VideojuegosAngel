@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> ANGEL AND XBOX </title>
+
+
+</head>
+<body background= "fondo.jpg">
+
+<img src= "logo.png">
+<img src= "inicio.png">
+<img src= "nosotros.png">
+<img src= "x.png">
+
+    <center> <img src= "xbox.gif"> </center>
+<center> <h1> ¿PARA SERVE ESTE SITIO WEB? </h1> </center>
+<body>
+</body>
+</html>
